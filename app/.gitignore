@@ -1,0 +1,4 @@
+# Remove sensitive
+finance/data/*
+
+*/__pycache__/**
